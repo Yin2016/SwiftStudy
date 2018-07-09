@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Untitled Page 2'/>
+        <page name='Switch'/>
+        <page name='for_whilt_do_while'/>
+        <page name='字符串的基本使用'/>
+        <page name='数组'/>
+        <page name='字典'/>
+        <page name='元组'/>
+        <page name='可选类型'/>
+        <page name='类型转换'/>
+        <page name='空合运算符'/>
+        <page name='函数'/>
+        <page name='结构体'/>
+        <page name='枚举'/>
+        <page name='类的基本'/>
+        <page name='字典转模型KVC'/>
+        <page name='类的析构函数'/>
+        <page name='类的属性和方法'/>
+        <page name='监听属性的改变'/>
+        <page name='swift中自动引用计数器'/>
+        <page name='封装集成多态'/>
+    </pages>
+</playground>
