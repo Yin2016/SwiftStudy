@@ -21,5 +21,9 @@
         <page name='监听属性的改变'/>
         <page name='swift中自动引用计数器'/>
         <page name='封装集成多态'/>
+        <page name='结构体和类的区别'/>
+        <page name='Any、NSObject、AnyObjective的区别'/>
+        <page name='可选链的使用'/>
+        <page name='可选类型的作用怎么取值'/>
     </pages>
 </playground>
