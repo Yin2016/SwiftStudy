@@ -11,6 +11,3 @@ import Foundation
 let arry1: [Any] = []
 let arry2: [NSObject] = []
 let arry3: [AnyObject] = []
-
-
-

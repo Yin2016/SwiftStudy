@@ -32,6 +32,5 @@
         <page name='闭包'/>
         <page name='参数闭包-尾随闭包-逃逸闭包'/>
         <page name='闭包循环应用以及解决方案'/>
-        <page name='懒加载'/>
     </pages>
 </playground>
