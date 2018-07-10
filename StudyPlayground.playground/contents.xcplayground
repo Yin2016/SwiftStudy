@@ -22,8 +22,16 @@
         <page name='swift中自动引用计数器'/>
         <page name='封装集成多态'/>
         <page name='结构体和类的区别'/>
-        <page name='Any、NSObject、AnyObjective的区别'/>
-        <page name='可选链的使用'/>
         <page name='可选类型的作用怎么取值'/>
+        <page name='可选链的使用'/>
+        <page name='Any、NSObject、AnyObjective的区别'/>
+        <page name='协议的基本使用'/>
+        <page name='协议中代理的使用'/>
+        <page name='协议中的可选'/>
+        <page name='泛型'/>
+        <page name='闭包'/>
+        <page name='参数闭包-尾随闭包-逃逸闭包'/>
+        <page name='闭包循环应用以及解决方案'/>
+        <page name='懒加载'/>
     </pages>
 </playground>

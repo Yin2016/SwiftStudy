@@ -15,3 +15,5 @@ str + "\(num)"
 let sec = 123
 let formatTime = String(format: "%02zd: %02zd", sec / 60, sec % 60)
 
+let formatTimes = String(format: "%010d111", sec)
+
