@@ -34,5 +34,7 @@
         <page name='闭包循环应用以及解决方案'/>
         <page name='懒加载'/>
         <page name='常见注释'/>
+        <page name='方法抛出异常'/>
+        <page name='处理异常的方式'/>
     </pages>
 </playground>
