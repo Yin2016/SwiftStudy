@@ -16,6 +16,25 @@ func test2(bb: (Int, Int) -> (Int)) {
 
 test2 { (a, b) -> (Int) in
     print("闭包调用")
-    return 2
+    return a + b
 }
+
+class Test {
+    
+    var block: ((Int, Int) -> ())!
+    
+    func blockTest() {
+        self.block?(10, 20)
+    }
+    
+}
+
+let t = Test()
+t.block? = {a, b in
+    print(a + b)
+    print("block")
+}
+
+t.blockTest()
+
 

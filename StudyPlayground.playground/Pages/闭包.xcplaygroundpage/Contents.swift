@@ -34,6 +34,9 @@ exec(n1: 10, n2: 10, block: add)
 exec(n1: 20, n2: 20) { (a, b) -> (Int) in
     return a - b
 }
+exec(n1: 10, n2: 20) { (a, b) -> (Int) in
+    return a + b
+}
 
 var sex: ()->(Int) = {
     return 10
